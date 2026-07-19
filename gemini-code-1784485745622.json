@@ -1,0 +1,28 @@
+[
+  {
+    "id": "bm-001",
+    "song_info": {
+      "title": "Song One",
+      "artist": "Artist A",
+      "cover_url": "https://example.com/cover1.jpg"
+    },
+    "beatmap_info": {
+      "mapper": "MapperOne",
+      "song_link": "https://example.com/song1",
+      "beatmap_data_link": "https://example.com/map1.osu"
+    }
+  },
+  {
+    "id": "bm-002",
+    "song_info": {
+      "title": "Song Two",
+      "artist": "Artist B",
+      "cover_url": "https://example.com/cover2.jpg"
+    },
+    "beatmap_info": {
+      "mapper": "MapperTwo",
+      "song_link": "https://example.com/song2",
+      "beatmap_data_link": "https://example.com/map2.osu"
+    }
+  }
+]
